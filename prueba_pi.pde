@@ -1,7 +1,5 @@
-//Tp 2: Tiro al blanco
-//Paula Margeritch 
-//Pilar D. Molnar
-//Cátedra Bedoian
+// Tiro al blanco
+
 
 
 //Declaramos estados, velocidad del blanco, imágenes, entre otras cosas
